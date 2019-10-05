@@ -1,0 +1,11 @@
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\bin\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.deps.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\bin\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.runtimeconfig.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\bin\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.runtimeconfig.dev.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\bin\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\bin\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.pdb
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.csprojAssemblyReference.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.csproj.CoreCompileInputs.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.AssemblyInfoInputs.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.AssemblyInfo.cs
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\src\obj\Debug\netcoreapp2.1\DotNetCore-Hello-World-App.pdb

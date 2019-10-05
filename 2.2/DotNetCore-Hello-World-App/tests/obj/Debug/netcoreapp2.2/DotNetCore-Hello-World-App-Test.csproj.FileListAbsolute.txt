@@ -1,0 +1,17 @@
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.deps.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.runtimeconfig.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.runtimeconfig.dev.json
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.pdb
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\bin\Debug\netcoreapp2.2\DotNetCore-Hello-World-App.pdb
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.csprojAssemblyReference.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.csproj.CoreCompileInputs.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.AssemblyInfoInputs.cache
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.AssemblyInfo.cs
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.csproj.CopyComplete
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.dll
+C:\Projetos\EB4\DotNetCore-Hello-World-App\tests\obj\Debug\netcoreapp2.2\DotNetCore-Hello-World-App-Test.pdb
