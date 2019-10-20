@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB46-Hello-World-App", "src\VB46-Hello-World-App.vbproj", "{B7FE3149-E45E-492B-84BA-95A003581B59}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB46-Hello-World-App-Test", "test\VB46-Hello-World-App-Test.vbproj", "{4FF7E356-2F02-4492-9B2F-9670CE6C74F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FE3149-E45E-492B-84BA-95A003581B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FE3149-E45E-492B-84BA-95A003581B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FE3149-E45E-492B-84BA-95A003581B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FE3149-E45E-492B-84BA-95A003581B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF7E356-2F02-4492-9B2F-9670CE6C74F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF7E356-2F02-4492-9B2F-9670CE6C74F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF7E356-2F02-4492-9B2F-9670CE6C74F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF7E356-2F02-4492-9B2F-9670CE6C74F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E9B838B-45F5-4619-B01F-6CD40B4C476E}
+	EndGlobalSection
+EndGlobal
