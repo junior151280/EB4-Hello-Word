@@ -29,8 +29,8 @@ namespace Itau_EB4_WebApi_SharedLibrary_Metrics.Controllers
             return _context.PipelineMetrics.ToList();
         }
 
-        [HttpGet("{id}", Name = "GetTodo")]
-        public ActionResult<PipelineMetrics> GetById(long id)
+        [HttpGet("{id}", Name = "GetPipelineMetrics")]
+        public ActionResult<PipelineMetrics> GetById(int id)
         {
             var item = _context.PipelineMetrics.Find(id);
             if (item == null)
@@ -38,6 +38,15 @@ namespace Itau_EB4_WebApi_SharedLibrary_Metrics.Controllers
                 return NotFound();
             }
             return item;
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<PipelineMetrics>> PostPipelineMetrics(PipelineMetrics pipeline)
+        {
+            _context.PipelineMetrics.Add(pipeline);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetById), new { id = pipeline.Id }, pipeline);
         }
     }
 }
