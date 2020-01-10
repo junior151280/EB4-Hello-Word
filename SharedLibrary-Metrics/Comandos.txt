@@ -1,0 +1,41 @@
+dotnet new webapi -n Itau-EB4-WebApi-SharedLibrary-Metrics
+
+dotnet new -i Microsoft.DotNet.Web.ProjectTemplates.3.0::3.0.1
+
+dotnet new sln -n Itau-EB4-SharedLibrary-Metrics
+
+dotnet sln add .\Itau-EB4-WebApi-SharedLibrary-Metrics\Itau-EB4-WebApi-SharedLibrary-Metrics.csproj
+
+cd .\Itau-EB4-WebApi-SharedLibrary-Metrics\
+
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 3.1.0
+
+dotnet build
+
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL.Design --version 1.1.0
+
+dotnet build
+
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 3.1.0
+
+dotnet tool install --global dotnet-ef
+
+dotnet ef migrations add initial
+
+dotnet ef database update
+
+
+
+
+password = 2bddea7d420c4559b38e8b6a6ce59390
+
+http://127.0.0.1:49867/browser/#
+
+
+{
+  "Name":"Testendo123",
+  "Start": "2020-01-09T21:05:00Z",
+  "End": "2020-01-09T21:08:00Z",
+  "Result":"OK"
+}
+
