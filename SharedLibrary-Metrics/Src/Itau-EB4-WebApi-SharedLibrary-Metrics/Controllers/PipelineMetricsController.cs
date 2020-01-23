@@ -40,7 +40,7 @@ namespace Itau_EB4_WebApi_SharedLibrary_Metrics.Controllers
             return item;
         }
 
-        [HttpPost]
+        [HttpPost(Name ="PostMetrics")]
         public async Task<ActionResult<PipelineMetrics>> PostPipelineMetrics(PipelineMetrics pipeline)
         {
             _context.PipelineMetrics.Add(pipeline);

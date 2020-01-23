@@ -39,25 +39,3 @@ http://127.0.0.1:49867/browser/#
   "Result":"OK"
 }
 
-
-
-#Get-ChildItem -Path "C:\Projetos\EB4\VB\VB46-Hello-World-App\packages\" -Filter *.dll -r
-
-#Get-ChildItem -Path .\ -Filter *.dll -Recurse -File -Name| ForEach-Object {
-#    $_.FullName.Remove($_.FullName.Length - $_.Extension.Length)
-#}
-
-#Get-ChildItem -Path .\ -Filter *.dll -Recurse -File| Sort-Object Length -Descending | ForEach-Object {
-#    $_.BaseName
-#} | clip
-
-Get-ChildItem -Path "C:\Projetos\EB4\VB\VB46-Hello-World-App\packages\" -Filter *.dll -Recurse -File -Name| ForEach-Object {
-    [System.IO.Path]::GetFullPath($_)
-}
-
-
-
-
-https://localhost:44377/api/PipelineMetrics/
-
-
