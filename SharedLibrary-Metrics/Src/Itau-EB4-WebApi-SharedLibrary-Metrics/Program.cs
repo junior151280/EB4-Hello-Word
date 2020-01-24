@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Itau_EB4_WebApi_SharedLibrary_Metrics
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
