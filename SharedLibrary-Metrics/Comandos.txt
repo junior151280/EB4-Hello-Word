@@ -60,4 +60,7 @@ Get-ChildItem -Path "C:\Projetos\EB4\VB\VB46-Hello-World-App\packages\" -Filter 
 
 https://localhost:44377/api/PipelineMetrics/
 
+https://andrewlock.net/comparing-startup-between-the-asp-net-core-3-templates/
+https://andrewlock.net/removing-the-mvc-razor-dependencies-from-the-web-api-template-in-asp-net-core/
+
 
