@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itau-eb4-webapp-netfull48", "src\itau-eb4-webapp-netfull48.csproj", "{740E9D2A-3E41-40CD-A8DC-2F35DB1CC11A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itau-eb4-webapp-netfull48", "itau-eb4-webapp-netfull48\itau-eb4-webapp-netfull48.csproj", "{740E9D2A-3E41-40CD-A8DC-2F35DB1CC11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itau-eb4-webapp-netfull48-Test", "itau-eb4-webapp-netfull48-Test\itau-eb4-webapp-netfull48-Test.csproj", "{E7F53A75-DD52-4266-A5D3-6178601BA206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{740E9D2A-3E41-40CD-A8DC-2F35DB1CC11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{740E9D2A-3E41-40CD-A8DC-2F35DB1CC11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{740E9D2A-3E41-40CD-A8DC-2F35DB1CC11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F53A75-DD52-4266-A5D3-6178601BA206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F53A75-DD52-4266-A5D3-6178601BA206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F53A75-DD52-4266-A5D3-6178601BA206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F53A75-DD52-4266-A5D3-6178601BA206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
